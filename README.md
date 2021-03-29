@@ -3,7 +3,7 @@ Macros for Fiji/ImageJ
 
 ## 1 - IN Cell Analyzer 2200 Manipulator
 
-This macro generates colorized images, merged channels and create stacks from images acquired by the IN Cell Analyzer 2200 (Cytiva, USA).
+This macro generates colorized images, merged channels and create stacks from images acquired with the IN Cell Analyzer 2200 (Cytiva, USA).
 
 ### How to use it: 
 
