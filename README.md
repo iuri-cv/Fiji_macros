@@ -33,8 +33,7 @@ all files.
 
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%205.png?raw=true)
 
-7 - After all files were processed, the log window will display the elapsed time. The processed images will be stored within the `manipulator_processed_images_folder` located within
-every processed subfolder. 
+7 - After all files were processed, the log window will display the elapsed time. The processed images will be stored within the `manipulator_processed_images` folder located within very processed subfolder. 
 
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%206.png?raw=true)
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%207.png?raw=true)
