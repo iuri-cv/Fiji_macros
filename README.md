@@ -24,8 +24,7 @@ subfolder of Fiji main folder (`Fiji.app > plugins`). If Fiji is open, restart i
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%203.png?raw=true)
 
 5 - Next, you will select the order of channels in the stack with respect to the acquisition order. In this example, the acquisition order was DAPI (1) and FITC (2). 
-If you to keep that order in stack you should type `1,2`. In this case I wanted to alter the order in the stack to FITC (1) and DAPI (2), so I typped `2,1`. Make sure to include
-a comma between the numbers. Next, you will atribute a color to each of the channels and the click `OK`.
+If you want to keep that order in the stack you should type `1,2`. In this case I wanted to alter the order in the stack to FITC (1) and DAPI (2), so I typed `2,1`. Make sure to include a comma between the numbers. Next, you will atribute a color to each of the channels and the click `OK`.
 
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%204.png?raw=true)
 
