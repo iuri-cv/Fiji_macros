@@ -38,7 +38,7 @@ all files.
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%206.png?raw=true)
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%207.png?raw=true)
 
-8 - Within every `manipulator_processed_images_folder` there will be three subfolders, named  `colorized`,  `merge` and  `stack`, which respectively stores colorized images, 
+8 - Within every `manipulator_processed_images` folder there will be three subfolders, named  `colorized`,  `merge` and  `stack`, which respectively stores colorized images, 
 merged channels and stacks.
 
 ![Alt text](https://github.com/iuri-cv/fiji_macros/blob/main/tutorial%20-%208.png?raw=true)
